@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DomainPropertyListings</string>
+    <string name="toolbar_heading">Domain property listing</string>
+    <string name="internet_dialog_title">Connect to Internet</string>
+    <string name="internet_not_connected">Please connect to internet to view property listings.</string>
+    <string name="internet_refresh_msg">Please connect to internet to refresh.</string>
+    <string name="error_message">Error Message</string>
+    <string name="label_bed">bed</string>
+    <string name="label_bath">bath</string>
+    <string name="label_car">car</string>
+    <string name="label_zero_price">Price TBC</string>
+    <string name="label_zero_bed">Studio</string>
+    <string name="label_zero_bath">&#x200B;</string>
+    <string name="label_zero_car">&#x200B;</string>
+    <string name="label_separator">,</string>
+    <string name="not_found_text">-</string>
+    <string name="property_detail">Property Details</string>
+</resources>
